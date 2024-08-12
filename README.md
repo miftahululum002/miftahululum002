@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miftahululum002
 - 👀 I’m interested in <b>Information Technology</b>
-- 🌱 I’m currently learning <b>Educational Practitioner</b>
+- 🌱 I’m currently learning <b>Coding Educator</b>
 - 💞️ I’m looking to collaborate on <b>Software Development</b>
 - 📫 How to reach me ...
 
