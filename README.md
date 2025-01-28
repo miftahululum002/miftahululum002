@@ -1,5 +1,7 @@
+## Hi everyone
+
 <h1 style="font-size: 10vw;">🧑‍💻</h1>
-<h1>Hi everyone, I'm Miftahul Ulum 👋</h1>
+## Hi everyone, I'm Miftahul Ulum 👋
 
 -   👋 Hi, I’m @miftahululum002
 -   👀 I’m interested in <b>Information Technology</b>
@@ -25,7 +27,14 @@
 <div>
   <div align="left"> 
   	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+   </a>
+  	<a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://nginx.org/img/nginx_logo.png" alt="nginx" height="40"/> 
+   </a>
+  	<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://httpd.apache.org/images/httpd_logo_wide_new.png" alt="apache-httpd" height="40"/> 
+   </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" alt="bootstrap" width="40" height="40"/> </a> 
 		<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
@@ -96,6 +105,9 @@
 		<a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 		 </a> 
+		<a href="https://scramble.dedoc.co/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/93313138?s=48&v=4" alt="scramble-dedoc" width="40" height="40"/>
+		 </a> 
 		<a href="https://www.usebruno.com" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/114530840?s=48&v=4" alt="bruno" width="40" height="40"/>
 		 </a> 
@@ -103,8 +115,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 		<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-		<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+		<a href="https://reactnative.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+     </a> 
+		<a href="https://reactrouter.com" target="_blank" rel="noreferrer"> 
+    <img src="https://reactrouter.com/splash/hero-3d-logo.webp" alt="react-router" height="40"/>
+     </a> 
 		<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 		<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
@@ -117,20 +133,28 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 		<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+		<a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+		<a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a> 
 		<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
+		<a href="https://vite.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/65625612?s=48&v=4" alt="vite" width="40" height="40"/>
+     </a> 
+		<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" width="40" height="40"/>
+     </a> 
 		<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+     </a> 
+		<a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/22247014?s=48&v=4" alt="yarn" width="40" height="40"/>
+     </a> 
     </div>
-
 </div>
-
 <hr>
-
 <h3> My Contact :</h3>
-
 <div>
   - <b>Instagram : <a href="https://instagram.com/miftahululum002">@miftahululum002</a></b><br>
   - <b>Linkedin : <a href="https://www.linkedin.com/in/miftahululum002/">Miftahul Ulum</a></b><br>
@@ -138,7 +162,6 @@
 </div>
 <br>
 <p> <i> Happy exploring my friend! </i> 😄 </p>
-
 <!---
 miftahululum002/miftahululum002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
