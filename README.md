@@ -1,17 +1,14 @@
-## Hi everyone
-
-<h1 style="font-size: 10vw;">🧑‍💻</h1>
 ## Hi everyone, I'm Miftahul Ulum 👋
 
 -   👋 Hi, I’m @miftahululum002
 -   👀 I’m interested in <b>Information Technology</b>
 -   🌱 I’m currently learning <b>Coding Educator</b>
 -   💞️ I’m looking to collaborate on <b>Software Development</b>
--   📫 How to reach me ...
 
-<img src="bg-profile.png" width="400" />
-<hr>
-<h3>GitHub Status:</h3>
+<img src="bg-profile.png" width="400" /><hr>
+
+## GitHub Status
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=miftahululum002&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
   <br>
@@ -23,7 +20,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=miftahululum002&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 <hr>
-<h3>Tech Stack:</h3>
+
+## Tech Stack:
+
 <div>
   <div align="left"> 
   	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -49,8 +48,16 @@
 		<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a> 
+    <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/3774533?s=48&v=4" alt="hapijs" width="40" height="40"/> 
+    </a> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" alt="nestjs" width="40" height="40"/> 
+    </a> 
 		<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 		<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
@@ -154,7 +161,9 @@
     </div>
 </div>
 <hr>
-<h3> My Contact :</h3>
+
+## 📫 How to reach me ...
+
 <div>
   - <b>Instagram : <a href="https://instagram.com/miftahululum002">@miftahululum002</a></b><br>
   - <b>Linkedin : <a href="https://www.linkedin.com/in/miftahululum002/">Miftahul Ulum</a></b><br>
