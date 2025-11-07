@@ -58,6 +58,9 @@
     	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 		</a> 
+    	<a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/> 
+		</a> 
     	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     	</a> 
@@ -80,10 +83,10 @@
     		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 		</a> 
 		<a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> 
 		</a> 
 		<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> 
 		</a> 
 		<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -97,6 +100,12 @@
 		<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/> 
 		</a> 
+		<a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/woocommerce/woocommerce-original-wordmark.svg" alt="Woocommerce" width="40" height="40"/> 
+		</a> 
+		<a href="https://symfony.com/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/> 
+		</a> 
 		<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
 		</a> 
@@ -105,23 +114,41 @@
 		<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yii/yii-original-wordmark.svg" alt="Yii" width="40" height="40"/> </a> 
 		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    		<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
+    		<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+		</a> 
 		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
+		</a> 
+		<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="ElasticSearch" width="40" height="40"/> 
+		</a> 
 		<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+    		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+		</a> 
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+		</a> 
+		<a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> 
+		</a> 
 		<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+    		<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+		</a> 
 		<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+		</a> 
 		<a href="https://nodemon.io/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="40" height="40"/> 
+		</a> 
+		<a href="https://pm2.io/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pm2/pm2-original-wordmark.svg" alt="PM2" width="40" height="40"/> 
+		</a> 
 		<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/prisma/prisma-original-wordmark.svg" alt="PrismaORM" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/prisma/prisma-original-wordmark.svg" alt="PrismaORM" width="40" height="40"/> 
+		</a> 
 		<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-    		<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
+    		<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
+		</a> 
 		<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 		<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -157,6 +184,12 @@
 		<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="60" height="60"/> 
 		</a> 
+		<a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/eslint/eslint-original-wordmark.svg" alt="ESLint" width="40" height="40"/> 
+		</a> 
+		<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="40" height="40"/> 
+		</a> 
 		<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 		</a> 
@@ -189,6 +222,9 @@
 		<a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 		</a> 
+		<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/> 
+		</a> 
 		<a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"> 
     		<img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> 
 		</a> 
@@ -204,11 +240,20 @@
 		<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
      	</a> 
+		<a href="https://pnpm.io/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/pnpm/pnpm-original-wordmark.svg" alt="pnpm" width="40" height="40"/>
+     	</a> 
 		<a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
      	</a> 
+		<a href="https://bun.com/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bun/bun-original.svg" alt="bun" width="40" height="40"/>
+     	</a> 
 		<a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/centos/centos-original-wordmark.svg" alt="centOS" width="40" height="40"/>
+     	</a> 
+		<a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/redhat/redhat-original-wordmark.svg" alt="Redhat" width="40" height="40"/>
      	</a> 
 		<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="40" height="40"/>
@@ -243,6 +288,9 @@
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
      	</a> 
+		<a href="https://www.apple.com/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/>
+     	</a> 
 		<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/xcode/xcode-original.svg" alt="XCode" width="40" height="40"/>
      	</a> 
@@ -269,6 +317,12 @@
      	</a> 
 		<a href="https://www.putty.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/putty/putty-original.svg" alt="Putty" width="40" height="40"/>
+     	</a> 
+		<a href="https://www.cpanel.net/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cpanel/cpanel-original-wordmark.svg" alt="Cpanel" width="40" height="40"/>
+     	</a> 
+		<a href="https://proxmox.com/en/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/proxmox/proxmox-original-wordmark.svg" alt="Proxmox" width="40" height="40"/>
      	</a> 
 		<a href="https://socket.io/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/socketio/socketio-original-wordmark.svg" alt="SocketIO" width="40" height="40"/>
