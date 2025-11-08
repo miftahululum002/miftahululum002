@@ -110,9 +110,14 @@
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
 		</a> 
 		<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/livewire/livewire-original-wordmark.svg" alt="Livewire" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/livewire/livewire-original-wordmark.svg" alt="Livewire" width="40" height="40"/> 
+		</a> 
+		<a href="https://filamentphp.com/" target="_blank" rel="noreferrer"> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/filamentphp/filamentphp-original.svg" alt="Filament" width="40" height="40"/> 
+		</a> 
 		<a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yii/yii-original-wordmark.svg" alt="Yii" width="40" height="40"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/yii/yii-original-wordmark.svg" alt="Yii" width="40" height="40"/> 
+		</a> 
 		<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
 		</a> 
