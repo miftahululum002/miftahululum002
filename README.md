@@ -181,11 +181,14 @@
 		    <img src="https://avatars.githubusercontent.com/u/114530840?s=48&v=4" alt="bruno" width="40" height="40"/>
 		 </a> 
 		<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
+		</a> 
 		<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original-wordmark.svg" alt="fastAPI" width="60" height="60"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original-wordmark.svg" alt="fastAPI" width="60" height="60"/> 
+		</a> 
 		<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain-wordmark.svg" alt="Django" width="60" height="60"/> </a> 
+    		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain-wordmark.svg" alt="Django" width="60" height="60"/> 
+		</a> 
 		<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
     		<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" width="60" height="60"/> 
 		</a> 
